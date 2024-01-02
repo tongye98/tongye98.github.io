@@ -73,7 +73,7 @@
     &lt;img src=&#34;./research.jpeg&#34;  style=&#34;width: 50%; padding: 5px;&#34; /&gt;
 &lt;/div&gt;
 &lt;h3 id=&#34;最后&#34;&gt;最后&lt;/h3&gt;
-&lt;p&gt;这一年行了万里路，读了$x$卷书 （$lim$ $x$ $\rightarrow$ 0），结识了很多有趣的朋友🧑‍🤝‍🧑，也遇到了志同道合提升口语的搭子，何其幸运！2023已经落下帷幕，2024年还是那句话：&lt;em&gt;&lt;strong&gt;人类所有的伟大，源于一个勇敢的开始！&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;这一年行了万里路，读了X卷书 （$lim X \rightarrow 0 $），结识了很多有趣的朋友🧑‍🤝‍🧑，也遇到了志同道合提升口语的搭子，何其幸运！2023已经落下帷幕，2024年还是那句话：&lt;em&gt;&lt;strong&gt;人类所有的伟大，源于一个勇敢的开始！&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -308,7 +308,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-648935721&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-314597268&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -318,7 +318,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-648935721&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-314597268&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
