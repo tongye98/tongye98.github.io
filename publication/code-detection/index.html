@@ -281,12 +281,12 @@
 
   
 
-<meta name="description" content="We propose a token-level retrieval-augmented mechanism to generate a better source code summary." />
+<meta name="description" content="We present an automated system to detect synthetic (model-generated) code." />
 
 
 
-<link rel="alternate" hreflang="en-us" href="https://tongye98.github.io/publication/tram/" />
-<link rel="canonical" href="https://tongye98.github.io/publication/tram/" />
+<link rel="alternate" hreflang="en-us" href="https://tongye98.github.io/publication/code-detection/" />
+<link rel="canonical" href="https://tongye98.github.io/publication/code-detection/" />
 
 
 
@@ -319,20 +319,20 @@
 
   <meta property="twitter:site" content="@wowchemy" />
   <meta property="twitter:creator" content="@wowchemy" />
-<meta property="twitter:image" content="https://tongye98.github.io/publication/tram/featured.jpg" />
+<meta property="twitter:image" content="https://tongye98.github.io/publication/code-detection/featured.png" />
 <meta property="og:site_name" content="TongYe" />
-<meta property="og:url" content="https://tongye98.github.io/publication/tram/" />
-<meta property="og:title" content="[NAACL 2024] Tram: A Token-level Retrieval-augmented Mechanism for Source Code Summarization | TongYe" />
-<meta property="og:description" content="We propose a token-level retrieval-augmented mechanism to generate a better source code summary." /><meta property="og:image" content="https://tongye98.github.io/publication/tram/featured.jpg" /><meta property="og:locale" content="en-us" />
+<meta property="og:url" content="https://tongye98.github.io/publication/code-detection/" />
+<meta property="og:title" content="[Arxiv 2024-05] Uncovering LLM-Generated Code: A Zero-Shot Synthetic Code Detector via Code Rewriting | TongYe" />
+<meta property="og:description" content="We present an automated system to detect synthetic (model-generated) code." /><meta property="og:image" content="https://tongye98.github.io/publication/code-detection/featured.png" /><meta property="og:locale" content="en-us" />
 
   
     <meta
       property="article:published_time"
-      content="2024-03-15T00:00:00&#43;00:00"
+      content="2024-05-07T00:00:00&#43;00:00"
     />
   
   
-    <meta property="article:modified_time" content="2024-03-15T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2024-05-27T00:00:00&#43;00:00">
   
 
 
@@ -356,16 +356,16 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://tongye98.github.io/publication/tram/"
+    "@id": "https://tongye98.github.io/publication/code-detection/"
   },
-  "headline": "[NAACL 2024] Tram: A Token-level Retrieval-augmented Mechanism for Source Code Summarization",
+  "headline": "[Arxiv 2024-05] Uncovering LLM-Generated Code: A Zero-Shot Synthetic Code Detector via Code Rewriting",
   
   "image": [
-    "https://tongye98.github.io/publication/tram/featured.jpg"
+    "https://tongye98.github.io/publication/code-detection/featured.png"
   ],
   
-  "datePublished": "2024-03-15T00:00:00Z",
-  "dateModified": "2024-03-15T00:00:00Z",
+  "datePublished": "2024-05-07T00:00:00Z",
+  "dateModified": "2024-05-27T00:00:00Z",
   
   "author": {
     "@type": "Person",
@@ -380,7 +380,7 @@
       "url": "https://tongye98.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "We propose a token-level retrieval-augmented mechanism to generate a better source code summary."
+  "description": "We present an automated system to detect synthetic (model-generated) code."
 }
 </script>
 
@@ -402,7 +402,7 @@
 
 
   
-  <title>[NAACL 2024] Tram: A Token-level Retrieval-augmented Mechanism for Source Code Summarization | TongYe</title>
+  <title>[Arxiv 2024-05] Uncovering LLM-Generated Code: A Zero-Shot Synthetic Code Detector via Code Rewriting | TongYe</title>
 
   
   
@@ -422,7 +422,7 @@
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="2dd299eea8974e34782cc13298036856" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="c3b0b9461f6e13927ee392964b8dd58c" >
 
   
   
@@ -772,7 +772,7 @@
 
 
 <div class="article-container pt-3">
-  <h1>[NAACL 2024] Tram: A Token-level Retrieval-augmented Mechanism for Source Code Summarization</h1>
+  <h1>[Arxiv 2024-05] Uncovering LLM-Generated Code: A Zero-Shot Synthetic Code Detector via Code Rewriting</h1>
 
   
 
@@ -789,12 +789,11 @@
     
 
   <span >
-      Tong Ye</span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="First Author"></i>, <span >
-      Lingfei Wu</span>, <span >
+      Tong Ye</span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Equal contribution"></i>, <span >
+      Yangkai Du</span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Equal contribution"></i>, <span >
       Tengfei Ma</span>, <span >
+      Lingfei Wu</span>, <span >
       Xuhong Zhang</span>, <span >
-      Yangkai Du</span>, <span >
-      Peiyu Liu</span>, <span >
       Shouling Ji</span>, <span >
       Wenhai Wang</span>
   </div>
@@ -807,7 +806,7 @@
     
       
     
-    March, 2024
+    May, 2024
   </span>
   
 
@@ -847,31 +846,19 @@
 
 
 
-<a class="btn btn-outline-primary btn-page-header" href="https://arxiv.org/abs/2305.11074" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header" href="http://arxiv.org/abs/2405.16133" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
 
-  
+
+
+
   
     
   
-<a class="btn btn-outline-primary btn-page-header" href="https://github.com/tongye98/SourceCodeSummary" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header" href="https://github.com/tongye98/SourceCodeSummary" target="_blank" rel="noopener">
-  Dataset
-</a>
-
-
 
 
 
@@ -889,10 +876,10 @@
 </div>
 
 
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 480px;">
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 370px;">
   <div style="position: relative">
-    <img src="/publication/tram/featured_hu78ceba0136cbb65cddd0acba8bec51b4_25832762_720x2500_fit_q75_h2_lanczos.webp" width="720" height="480" alt="" class="featured-image">
-    <span class="article-header-caption"><strong>Mexico City - NAACL 2024</strong></span>
+    <img src="/publication/code-detection/featured_hu2529aada3568baf9df760e91e6f74043_274571_720x2500_fit_q75_h2_lanczos_3.webp" width="720" height="370" alt="" class="featured-image">
+    <span class="article-header-caption"><a href="http://arxiv.org/abs/2405.16133" target="_blank" rel="noopener"><strong>Code-Detection</strong></a></span>
   </div>
 </div>
 
@@ -902,7 +889,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">Automatically generating human-readable text describing the functionality of a program is the intent of source code summarization. Although neural language models achieve significant performance in this field, they are limited by their inability to access external knowledge. To address this limitation, an emerging trend is combining neural models with external knowledge through retrieval methods. Previous methods have relied on the sentence-level retrieval paradigm on the encoder side. However, this paradigm is coarse-grained, noise-filled and cannot directly take advantage of the high-quality retrieved summary tokens on the decoder side. In this paper, we propose a fine-grained Token-level retrieval-augmented mechanism (Tram) on the decoder side rather than the encoder side to enhance the performance of neural models and produce more low-frequency tokens in generating summaries. Furthermore, to overcome the challenge of token-level retrieval in capturing contextual code semantics, we also propose integrating code semantics into individual summary tokens. The results of extensive experiments and human evaluation show that our token-level retrieval-augmented approach significantly improves performance and is more interpretable.</p>
+    <p class="pub-abstract">Large Language Models (LLMs) have exhibited remarkable proficiency in generating code. However, the misuse of LLM-generated (synthetic) code has prompted concerns within both educational and industrial domains, highlighting the imperative need for the development of synthetic code detectors. Existing methods for detecting LLM-generated content are primarily tailored for general text and often struggle with code content due to the distinct grammatical structure of programming languages and massive &ldquo;low-entropy&rdquo; tokens. Building upon this, our work proposes a novel zero-shot synthetic code detector based on the similarity between the code and its rewritten variants. Our method relies on the intuition that the differences between the LLM-rewritten and original codes tend to be smaller when the original code is synthetic. We utilize self-supervised contrastive learning to train a code similarity model and assess our approach on two synthetic code detection benchmarks. Our results demonstrate a significant improvement over current synthetic content detectors designed for general texts, achieving a 20.5% increase in AUROC on the APPS benchmark and a 29.1% increase on the MBPP benchmark.</p>
     
 
     
@@ -913,8 +900,8 @@
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Type</div>
           <div class="col-12 col-md-9">
-            <a href="/publication/#1">
-              Conference paper
+            <a href="/publication/#3">
+              Preprint
             </a>
           </div>
         </div>
@@ -925,43 +912,19 @@
     
 
     
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">In <em>2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics</em></div>
-        </div>
-      </div>
-      <div class="col-md-1"></div>
-    </div>
-    <div class="d-md-none space-below"></div>
-    
 
     <div class="space-below"></div>
 
-    <div class="article-style"><!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
-<p>
+    <div class="article-style"><!-- 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<figure  >
-  <div class="d-flex justify-content-center">
-    <div class="w-100" ><img src="./architecture.png" alt="img" loading="lazy" data-zoomable /></div>
-  </div></figure>
-</p>
+<div class="alert alert-note">
+  <div>
+    Create your slides in Markdown - click the <em>Slides</em> button to check out the example.
+  </div>
+</div>
+ -->
+<!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
+<p>Arxiv Version Link: <a href="http://arxiv.org/abs/2405.16133" target="_blank" rel="noopener">arXiv</a></p>
 </div>
 
     
@@ -969,6 +932,12 @@
 
 
 
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/paper/">paper</a>
+  
+</div>
 
 
 
@@ -987,7 +956,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Ftongye98.github.io%2Fpublication%2Ftram%2F&amp;text=%5BNAACL&#43;2024%5D&#43;Tram%3A&#43;A&#43;Token-level&#43;Retrieval-augmented&#43;Mechanism&#43;for&#43;Source&#43;Code&#43;Summarization" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Ftongye98.github.io%2Fpublication%2Fcode-detection%2F&amp;text=%5BArxiv&#43;2024-05%5D&#43;Uncovering&#43;LLM-Generated&#43;Code%3A&#43;A&#43;Zero-Shot&#43;Synthetic&#43;Code&#43;Detector&#43;via&#43;Code&#43;Rewriting" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -1004,7 +973,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Ftongye98.github.io%2Fpublication%2Ftram%2F&amp;t=%5BNAACL&#43;2024%5D&#43;Tram%3A&#43;A&#43;Token-level&#43;Retrieval-augmented&#43;Mechanism&#43;for&#43;Source&#43;Code&#43;Summarization" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Ftongye98.github.io%2Fpublication%2Fcode-detection%2F&amp;t=%5BArxiv&#43;2024-05%5D&#43;Uncovering&#43;LLM-Generated&#43;Code%3A&#43;A&#43;Zero-Shot&#43;Synthetic&#43;Code&#43;Detector&#43;via&#43;Code&#43;Rewriting" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -1023,7 +992,7 @@
         
       
       <li>
-        <a href="mailto:?subject=%5BNAACL%202024%5D%20Tram%3A%20A%20Token-level%20Retrieval-augmented%20Mechanism%20for%20Source%20Code%20Summarization&amp;body=https%3A%2F%2Ftongye98.github.io%2Fpublication%2Ftram%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=%5BArxiv%202024-05%5D%20Uncovering%20LLM-Generated%20Code%3A%20A%20Zero-Shot%20Synthetic%20Code%20Detector%20via%20Code%20Rewriting&amp;body=https%3A%2F%2Ftongye98.github.io%2Fpublication%2Fcode-detection%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -1040,7 +1009,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Ftongye98.github.io%2Fpublication%2Ftram%2F&amp;title=%5BNAACL&#43;2024%5D&#43;Tram%3A&#43;A&#43;Token-level&#43;Retrieval-augmented&#43;Mechanism&#43;for&#43;Source&#43;Code&#43;Summarization" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Ftongye98.github.io%2Fpublication%2Fcode-detection%2F&amp;title=%5BArxiv&#43;2024-05%5D&#43;Uncovering&#43;LLM-Generated&#43;Code%3A&#43;A&#43;Zero-Shot&#43;Synthetic&#43;Code&#43;Detector&#43;via&#43;Code&#43;Rewriting" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -1057,7 +1026,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=%5BNAACL&#43;2024%5D&#43;Tram%3A&#43;A&#43;Token-level&#43;Retrieval-augmented&#43;Mechanism&#43;for&#43;Source&#43;Code&#43;Summarization%20https%3A%2F%2Ftongye98.github.io%2Fpublication%2Ftram%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=%5BArxiv&#43;2024-05%5D&#43;Uncovering&#43;LLM-Generated&#43;Code%3A&#43;A&#43;Zero-Shot&#43;Synthetic&#43;Code&#43;Detector&#43;via&#43;Code&#43;Rewriting%20https%3A%2F%2Ftongye98.github.io%2Fpublication%2Fcode-detection%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -1074,7 +1043,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Ftongye98.github.io%2Fpublication%2Ftram%2F&amp;title=%5BNAACL&#43;2024%5D&#43;Tram%3A&#43;A&#43;Token-level&#43;Retrieval-augmented&#43;Mechanism&#43;for&#43;Source&#43;Code&#43;Summarization" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Ftongye98.github.io%2Fpublication%2Fcode-detection%2F&amp;title=%5BArxiv&#43;2024-05%5D&#43;Uncovering&#43;LLM-Generated&#43;Code%3A&#43;A&#43;Zero-Shot&#43;Synthetic&#43;Code&#43;Detector&#43;via&#43;Code&#43;Rewriting" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1093,12 +1062,6 @@
 
 
   
-  
-    
-
-
-
-
   
     
 

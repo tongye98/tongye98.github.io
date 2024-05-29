@@ -33,6 +33,24 @@
     </item>
     
     <item>
+      <title>[Arxiv 2024-05] Uncovering LLM-Generated Code: A Zero-Shot Synthetic Code Detector via Code Rewriting</title>
+      <link>https://tongye98.github.io/publication/code-detection/</link>
+      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://tongye98.github.io/publication/code-detection/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;p&gt;Arxiv Version Link: &lt;a href=&#34;http://arxiv.org/abs/2405.16133&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>[NAACL 2024] Tram: A Token-level Retrieval-augmented Mechanism for Source Code Summarization</title>
       <link>https://tongye98.github.io/publication/tram/</link>
       <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
@@ -204,7 +222,7 @@
     </item>
     
     <item>
-      <title>[Arxiv 2024-02]LuaTaint: A Static Taint Analysis System for Web Interface Framework Vulnerability of IoT Devicesr</title>
+      <title>[Arxiv 2024-02] LuaTaint: A Static Taint Analysis System for Web Interface Framework Vulnerability of IoT Devices</title>
       <link>https://tongye98.github.io/publication/luataint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       <guid>https://tongye98.github.io/publication/luataint/</guid>
