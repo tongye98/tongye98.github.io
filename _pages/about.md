@@ -59,8 +59,8 @@ My research interests include Large Language Models (LLMs), Code Intelligence, C
 - [State-of-the-Art Survey of Open-source Software Supply Chain Security](https://www.jos.org.cn/jos/article/abstract/lh049), Shouling Ji, Qinying Wang, Anying Chen, Binbin Zhao, **Tong Ye**, Xuhong Zhang, Jingzheng Wu, Yun Li, Jianwei Yin, Yanjun Wu, **Journal of Software, 2022**
 
 # 🎖 Honors and Awards
-- *2020.06* Zhejiang Provincial Government Scholarship. 
 - *2020.06* Outstanding Graduates of Zhejiang Province (Top 3%). 
+- *2019.09* Zhejiang Provincial Government Scholarship. 
 
 # 📖 Educations
 - *2020.09 - 2024.12 (now)*, CyberSecurity, Zhejiang University. 
