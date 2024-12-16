@@ -60,7 +60,7 @@ My research interests include Large Language Models (LLMs), Code Intelligence, C
 
 # 🎖 Honors and Awards
 - *2020.06* Zhejiang Provincial Government Scholarship. 
-- *2020.06* Outstanding Graduates of Zhejiang Province. 
+- *2020.06* Outstanding Graduates of Zhejiang Province (Top 3%). 
 
 # 📖 Educations
 - *2020.09 - 2024.12 (now)*, CyberSecurity, Zhejiang University. 
