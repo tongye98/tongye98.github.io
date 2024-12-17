@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I graduated with a bachelor's degree from [the Department of Physics at ZheJiang University](http://physics.zju.edu.cn) and is now a Phd student undert the mentorship of [Wenhai Wang](https://person.zju.edu.cn/wangweihai) and [Xuhong Zhang](https://person.zju.edu.cn/zhangxuhong) at ZheJiang University.  
+I graduated with a bachelor's degree from [the Department of Physics at Zhejiang University](http://physics.zju.edu.cn) and is now a Phd student undert the mentorship of [Wenhai Wang](https://person.zju.edu.cn/wangweihai) and [Xuhong Zhang](https://person.zju.edu.cn/zhangxuhong) at ZheJiang University.  
 
 My research interests include Large Language Models (LLMs), Code Intelligence, Code Generation, etc.
 
@@ -43,7 +43,7 @@ My research interests include Large Language Models (LLMs), Code Intelligence, C
 </div> -->
 
 
-- [Uncovering LLM-Generated Code: A Zero-Shot Synthetic Code Detector via Code Rewriting](https://arxiv.org/pdf/2405.16133), **Tong Ye**, Yangkai Du, Tengfei Ma, Lingfei Wu, Xuhong Zhang, Shouling Ji, Wenhai Wang, **AAAI 2025**
+- [Uncovering LLM-Generated Code: A Zero-Shot Synthetic Code Detector via Code Rewriting](https://arxiv.org/abs/2405.16133), **Tong Ye**, Yangkai Du, Tengfei Ma, Lingfei Wu, Xuhong Zhang, Shouling Ji, Wenhai Wang, **AAAI 2025**
 
 - [Iterative or Innovative? A Problem-Oriented Perspective for Code Optimization](https://arxiv.org/abs/2406.11935), **Tong Ye**, Tengfei Ma, Lingfei Wu, Xuhong Zhang, Shouling Ji, Wenhai Wang, **Arxiv 2024-06**
 
@@ -63,8 +63,8 @@ My research interests include Large Language Models (LLMs), Code Intelligence, C
 - *2019.09* Zhejiang Provincial Government Scholarship. 
 
 # 📖 Educations
-- *2020.09 - 2024.12 (now)*, CyberSecurity, Zhejiang University. 
-- *2016.09 - 2020.06*, Physics, Zhejiang University. 
+- *2020.09 - 2024.12 (now)*, CyberSecurity, Zhejiang University, China. 
+- *2016.09 - 2020.06*, Physics, Zhejiang University, China. 
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
