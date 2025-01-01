@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Tong Ye"
-description              : "硅基生物研究员<br>碳基生物观察员"
+description              : "Phd Candidate"
 repository               : "tongye98/tongye98.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Tong Ye"
   avatar           : "images/moon.jpg"
-  bio              : "Zhejiang University"
+  bio              : "Zhejiang University<br>硅基生物研究员<br>碳基生物观察员"
   location         : "Hangzhou, China"
   employer         :
   pubmed           : 
