@@ -43,7 +43,7 @@ My research interests include Large Language Models (LLMs), Code Intelligence, C
 </div> -->
 
 
-- [Uncovering LLM-Generated Code: A Zero-Shot Synthetic Code Detector via Code Rewriting](https://arxiv.org/abs/2405.16133), **Tong Ye**, Yangkai Du, Tengfei Ma, Lingfei Wu, Xuhong Zhang, Shouling Ji, Wenhai Wang, **AAAI 2025**
+- [Uncovering LLM-Generated Code: A Zero-Shot Synthetic Code Detector via Code Rewriting](https://arxiv.org/abs/2405.16133), **Tong Ye**, Yangkai Du, Tengfei Ma, Lingfei Wu, Xuhong Zhang, Shouling Ji, Wenhai Wang, **AAAI 2025** **Oral**
 
 - [Iterative or Innovative? A Problem-Oriented Perspective for Code Optimization](https://arxiv.org/abs/2406.11935), **Tong Ye**, Tengfei Ma, Lingfei Wu, Xuhong Zhang, Shouling Ji, Wenhai Wang, **Arxiv 2024-06**
 
