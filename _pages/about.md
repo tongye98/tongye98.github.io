@@ -64,7 +64,7 @@ My research interests include Large Language Models (LLMs), Code Intelligence, C
 - *2019.09* Zhejiang Provincial Government Scholarship. 
 
 # 📖 Educations
-- *2020.09 - 2024.12 (now)*, CyberSecurity, Zhejiang University, China. 
+- *2020.09 - now*, CyberSecurity, Zhejiang University, China. 
 - *2016.09 - 2020.06*, Physics, Zhejiang University, China. 
 
 <!-- # 💬 Invited Talks
@@ -72,5 +72,5 @@ My research interests include Large Language Models (LLMs), Code Intelligence, C
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2024.06 - 2024.12 (now)*, Ant-Star, LLM Algorithm Research Intern, [Ant Group](https://www.antgroup.com), China.
+- *2024.06 - now*, Ant-Star, LLM Algorithm Research Intern, [Ant Group](https://www.antgroup.com), China.
 - *2021.07 - 2021.09*, Digital Twin, [UWNTEK](https://www.uwntek.com), China.
