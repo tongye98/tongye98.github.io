@@ -28,6 +28,10 @@ My research interests include Large Language Models (LLMs), Code Intelligence, C
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
+# 🚀 News
+- 🔥🔥 **[2025-03-16]** [Awesome-Code-Benchmark](https://github.com/tongye98/Awesome-Code-Benchmark) A thorough review of code domain benchmarks for LLM research has been released.
+
+
 # 📝 Conference Publications 
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -41,6 +45,11 @@ My research interests include Large Language Models (LLMs), Code Intelligence, C
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
+
+
+- [ModiGen: A Large Language Model-Based Workflow for Multi-Task  Modelica Code Generation]() Jiahui Xiang, **Tong Ye**, Peiyu Liu, Yinan Zhang, Wenhai Wang, **ICSE 2025 under review**
+
+- [Towards Automated SOC Alert Validation: Leveraging LLMs for False Positives Identification]() Weigang Huang, Peiyu Liu, Kangjie Lu, **Tong Ye**, Lirong Fu, Wenhai Wang, **ICSE 2025 under review**
 
 - [LLM4EFFI: Leveraging Large Language Models to Enhance Code Efficiency and Correctness](https://arxiv.org/abs/2502.18489), **Tong Ye**, Weigang Huang, Xuhong Zhang, Tengfei Ma, Peiyu Liu, Jianwei Yin, Wenhai Wang, **ACL 2025 under reivew**
 
