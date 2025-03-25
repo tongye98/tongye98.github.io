@@ -29,7 +29,8 @@ My research interests include Large Language Models (LLMs), Code Intelligence, C
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 🚀 News
-- 🔥🔥 **[2025-03-16]** [Awesome-Code-Benchmark](https://github.com/tongye98/Awesome-Code-Benchmark) A thorough review of code domain benchmarks for LLM research has been released.
+- 🔥🔥 **[2025-03-25]** [**Ling-Coder-Lite**](https://arxiv.org/abs/2503.17793) is released by Codefuse and Ling Team, Ant Group.
+- 🔥🔥 **[2025-03-16]** [**Awesome-Code-Benchmark**](https://github.com/tongye98/Awesome-Code-Benchmark) A thorough review of code domain benchmarks for LLM research has been released.
 
 
 # 📝 Conference Publications 
@@ -46,10 +47,11 @@ My research interests include Large Language Models (LLMs), Code Intelligence, C
 </div>
 </div> -->
 
+- [Every Sample Matters: Leveraging Mixture-of-Experts and High-Quality Data for Efficient and Accurate Code LLM](https://arxiv.org/abs/2503.17793), **Codefuse, Ling Team**: Wenting Cai, Yuchen Cao, Chaoyu Chen, Chen Chen, Siba Chen, Qing Cui, Peng Di, Junpeng Fang, Zi Gong, Ting Guo, Zhengyu He, Yang Huang, Cong Li, Jianguo Li, Zheng Li, Shijie Lian, BingChang Liu, Songshan Luo, Shuo Mao, Min Shen, Jian Wu, Jiaolong Yang, Wenjie Yang, **Tong Ye**, Hang Yu, Wei Zhang, Zhenduo Zhang, Hailin Zhao, Xunjin Zheng, Jun Zhou. **Techinical Report, Ant Group**  *<u>(Authors are listed in the alphabet order based on their last name.)</u>*
 
-- [ModiGen: A Large Language Model-Based Workflow for Multi-Task  Modelica Code Generation]() Jiahui Xiang, **Tong Ye**, Peiyu Liu, Yinan Zhang, Wenhai Wang, **ICSE 2025 under review**
+- [ModiGen: A Large Language Model-Based Workflow for Multi-Task  Modelica Code Generation](), Jiahui Xiang, **Tong Ye**, Peiyu Liu, Yinan Zhang, Wenhai Wang, **ICSE 2025 under review**
 
-- [Towards Automated SOC Alert Validation: Leveraging LLMs for False Positives Identification]() Weigang Huang, Peiyu Liu, Kangjie Lu, **Tong Ye**, Lirong Fu, Wenhai Wang, **ICSE 2025 under review**
+- [Towards Automated SOC Alert Validation: Leveraging LLMs for False Positives Identification](), Weigang Huang, Peiyu Liu, Kangjie Lu, **Tong Ye**, Lirong Fu, Wenhai Wang, **ICSE 2025 under review**
 
 - [LLM4EFFI: Leveraging Large Language Models to Enhance Code Efficiency and Correctness](https://arxiv.org/abs/2502.18489), **Tong Ye**, Weigang Huang, Xuhong Zhang, Tengfei Ma, Peiyu Liu, Jianwei Yin, Wenhai Wang, **ACL 2025 under reivew**
 
