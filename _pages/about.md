@@ -49,7 +49,7 @@ My research interests include Large Language Models (LLMs), Code Intelligence, C
 
 - [Every Sample Matters: Leveraging Mixture-of-Experts and High-Quality Data for Efficient and Accurate Code LLM](https://arxiv.org/abs/2503.17793), **Codefuse, Ling Team**: Wenting Cai, Yuchen Cao, Chaoyu Chen, Chen Chen, Siba Chen, Qing Cui, Peng Di, Junpeng Fang, Zi Gong, Ting Guo, Zhengyu He, Yang Huang, Cong Li, Jianguo Li, Zheng Li, Shijie Lian, BingChang Liu, Songshan Luo, Shuo Mao, Min Shen, Jian Wu, Jiaolong Yang, Wenjie Yang, **Tong Ye**, Hang Yu, Wei Zhang, Zhenduo Zhang, Hailin Zhao, Xunjin Zheng, Jun Zhou. **Techinical Report, Ant Group**  *<u>(Authors are listed in the alphabet order based on their last name.)</u>*
 
-- [ModiGen: A Large Language Model-Based Workflow for Multi-Task  Modelica Code Generation](), Jiahui Xiang, **Tong Ye**, Peiyu Liu, Yinan Zhang, Wenhai Wang, **ICSE 2025 under review**
+- [ModiGen: A Large Language Model-Based Workflow for Multi-Task  Modelica Code Generation](https://arxiv.org/abs/2503.18460), Jiahui Xiang, **Tong Ye**, Peiyu Liu, Yinan Zhang, Wenhai Wang, **ICSE 2025 under review**
 
 - [Towards Automated SOC Alert Validation: Leveraging LLMs for False Positives Identification](), Weigang Huang, Peiyu Liu, Kangjie Lu, **Tong Ye**, Lirong Fu, Wenhai Wang, **ICSE 2025 under review**
 
