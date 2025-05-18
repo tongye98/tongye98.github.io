@@ -47,15 +47,17 @@ My research interests include Large Language Models (LLMs), Code Intelligence, C
 </div>
 </div> -->
 
+- [Domain-Specific Data Synthesis for LLMs through Minimal Sufficient Representation Learning]() **Tong Ye**, Hang Yu, Tengfei Ma, Xuhong Zhang, Jianguo Li, Peng Di, Jianwei Yin, Wenhai Wang, **NeurIPS 2025 under reivew** 
+
 - [Every Sample Matters: Leveraging Mixture-of-Experts and High-Quality Data for Efficient and Accurate Code LLM](https://arxiv.org/abs/2503.17793), **Codefuse, Ling Team**: Wenting Cai, Yuchen Cao, Chaoyu Chen, Chen Chen, Siba Chen, Qing Cui, Peng Di, Junpeng Fang, Zi Gong, Ting Guo, Zhengyu He, Yang Huang, Cong Li, Jianguo Li, Zheng Li, Shijie Lian, BingChang Liu, Songshan Luo, Shuo Mao, Min Shen, Jian Wu, Jiaolong Yang, Wenjie Yang, **Tong Ye**, Hang Yu, Wei Zhang, Zhenduo Zhang, Hailin Zhao, Xunjin Zheng, Jun Zhou. **Techinical Report, Ant Group**  *<u>(Authors are listed in the alphabet order based on their last name.)</u>*
 
 - [ModiGen: A Large Language Model-Based Workflow for Multi-Task  Modelica Code Generation](https://arxiv.org/abs/2503.18460), Jiahui Xiang, **Tong Ye**, Peiyu Liu, Yinan Zhang, Wenhai Wang, **ICSE 2025 under review**
 
 - [Towards Automated SOC Alert Validation: Leveraging LLMs for False Positives Identification](), Weigang Huang, Peiyu Liu, Kangjie Lu, **Tong Ye**, Lirong Fu, Wenhai Wang, **ICSE 2025 under review**
 
-- [LLM4EFFI: Leveraging Large Language Models to Enhance Code Efficiency and Correctness](https://arxiv.org/abs/2502.18489), **Tong Ye**, Weigang Huang, Xuhong Zhang, Tengfei Ma, Peiyu Liu, Jianwei Yin, Wenhai Wang, **ACL 2025 under reivew**
+- [LLM4EFFI: Leveraging Large Language Models to Enhance Code Efficiency and Correctness](https://arxiv.org/abs/2502.18489), **Tong Ye**, Weigang Huang, Xuhong Zhang, Tengfei Ma, Peiyu Liu, Jianwei Yin, Wenhai Wang, **EMNLP 2025 under reivew**
 
-- [A Problem-Oriented Perspective and Anchor Verification for Code Optimization](https://arxiv.org/abs/2406.11935), **Tong Ye**, Tengfei Ma, Xuhong Zhang, Hang Yu, Jianwei Yin, Wenhai Wang, **ACL 2025 under reivew**
+- [A Problem-Oriented Perspective and Anchor Verification for Code Optimization](https://arxiv.org/abs/2406.11935), **Tong Ye**, Tengfei Ma, Xuhong Zhang, Hang Yu, Jianwei Yin, Wenhai Wang, **NeurIPS 2025 under reivew**
 
 - [Uncovering LLM-Generated Code: A Zero-Shot Synthetic Code Detector via Code Rewriting](https://doi.org/10.1609/aaai.v39i1.32082), **Tong Ye**, Yangkai Du, Tengfei Ma, Lingfei Wu, Xuhong Zhang, Shouling Ji, Wenhai Wang, **AAAI 2025** **Oral**
 
