@@ -29,6 +29,7 @@ My research interests include Large Language Models (LLMs), Code Intelligence, C
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 🚀 News
+- 🔥🔥 **[2025-06-13]**  I just finished my algorithm internship at Ant Group. It was **exactly** a whole year.
 - 🔥🔥 **[2025-03-25]** [**Ling-Coder-Lite**](https://arxiv.org/abs/2503.17793) is released by Codefuse and Ling Team, Ant Group.
 - 🔥🔥 **[2025-03-16]** [**Awesome-Code-Benchmark**](https://github.com/tongye98/Awesome-Code-Benchmark) A thorough review of code domain benchmarks for LLM research has been released.
 
@@ -74,7 +75,7 @@ My research interests include Large Language Models (LLMs), Code Intelligence, C
 
 
 # 📖 Educations
-- *2020.09 - now*, CyberSecurity, Zhejiang University, China. 
+- *2020.09 - Now*, CyberSecurity, Zhejiang University, China. 
 - *2016.09 - 2020.06*, Physics, Zhejiang University, China. 
 
 <!-- # 💬 Invited Talks
@@ -82,7 +83,7 @@ My research interests include Large Language Models (LLMs), Code Intelligence, C
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2024.06 - now*, Ant-Star, LLM Algorithm Research Intern, [Ant Group](https://www.antgroup.com), China.
+- *2024.06 - 2025.06*, Ant-Star, LLM Algorithm Research Intern, [Ant Group](https://www.antgroup.com), China.
 - *2021.07 - 2021.09*, Digital Twin, [UWNTEK](https://www.uwntek.com), China.
 
 # 🎖 Honors and Awards
