@@ -54,8 +54,6 @@ My research interests include Large Language Models (LLMs), Code Intelligence, A
 
 - [ModiGen: A Large Language Model-Based Workflow for Multi-Task  Modelica Code Generation](https://arxiv.org/abs/2503.18460), Jiahui Xiang, **Tong Ye**, Peiyu Liu, Yinan Zhang, Wenhai Wang
 
-- [Towards Automated SOC Alert Validation: Leveraging LLMs for False Positives Identification](), Weigang Huang, Peiyu Liu, Kangjie Lu, **Tong Ye**, Lirong Fu, Wenhai Wang
-
 - [Every Sample Matters: Leveraging Mixture-of-Experts and High-Quality Data for Efficient and Accurate Code LLM](https://arxiv.org/abs/2503.17793), **Codefuse, Ling Team**: Wenting Cai, Yuchen Cao, Chaoyu Chen, Chen Chen, Siba Chen, Qing Cui, Peng Di, Junpeng Fang, Zi Gong, Ting Guo, Zhengyu He, Yang Huang, Cong Li, Jianguo Li, Zheng Li, Shijie Lian, BingChang Liu, Songshan Luo, Shuo Mao, Min Shen, Jian Wu, Jiaolong Yang, Wenjie Yang, **Tong Ye**, Hang Yu, Wei Zhang, Zhenduo Zhang, Hailin Zhao, Xunjin Zheng, Jun Zhou. **Techinical Report, Ant Group**  *<u>(Authors are listed in the alphabet order based on their last name.)</u>*
 
 - [LLM4EFFI: Leveraging Large Language Models to Enhance Code Efficiency and Correctness](https://arxiv.org/abs/2502.18489), **Tong Ye**, Weigang Huang, Xuhong Zhang, Tengfei Ma, Peiyu Liu, Jianwei Yin, Wenhai Wang
@@ -71,6 +69,8 @@ My research interests include Large Language Models (LLMs), Code Intelligence, A
 
 
 # 📝 Journal Publications 
+-[AutoPenGPT: Drift-Resistant Penetration Testing Driven by Search-Space Convergence and Dependency Modeling](https://jeit.ac.cn/en/article/doi/10.11999/JEIT250873)  Weigang Huang, Lirong Fu, Peiyu Liu, Linkang Du, **Tong Ye**, Yifan Xia, Wenhai Wang, **电子与信息学报, 2025**
+
 - [LuaTaint: A Static Analysis System for Web Configuration Interface Vulnerability of Internet of Things Device](https://ieeexplore.ieee.org/document/10742550), Jiahui Xiang, Lirong Fu, **Tong Ye**, Peiyu Liu, Huan Le, Liming Zhu, Wenhai Wang, **IEEE Internet of Things Journal, 2024**
 
 - [State-of-the-Art Survey of Open-source Software Supply Chain Security](https://www.jos.org.cn/jos/article/abstract/lh049), Shouling Ji, Qinying Wang, Anying Chen, Binbin Zhao, **Tong Ye**, Xuhong Zhang, Jingzheng Wu, Yun Li, Jianwei Yin, Yanjun Wu, **Journal of Software, 2022**
