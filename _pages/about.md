@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I graduated with a bachelor's degree from [the Department of Physics at Zhejiang University](http://physics.zju.edu.cn) and is now a Phd student undert the mentorship of [Wenhai Wang](https://person.zju.edu.cn/wangweihai) and [Xuhong Zhang](https://person.zju.edu.cn/zhangxuhong) at ZheJiang University.  
+I graduated with a bachelor's degree in Physics from [Zhejiang University](http://www.zju.edu.cn) and earned my Ph.D. in Cybersecurity from Zhejiang University under the mentorship of [Wenhai Wang](https://person.zju.edu.cn/wangweihai) and [Xuhong Zhang](https://person.zju.edu.cn/zhangxuhong).  
 
-My research interests include Large Language Models (LLMs), Code Intelligence, Code Generation, etc.
+My research interests include Large Language Models (LLMs), Code Intelligence, Agentic Coding, etc.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -29,7 +29,9 @@ My research interests include Large Language Models (LLMs), Code Intelligence, C
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 🚀 News
-- 🔥🔥 **[2025-06-13]**  I just finished my algorithm internship at Ant Group. It was **exactly** a whole year.
+- 🔥🔥 **[2026-01-26]** Our paper "[A Problem-Oriented Perspective and Anchor Verification for Code Optimization](https://arxiv.org/abs/2406.11935)" was accepted by ICLR 2026.
+- 🔥🔥 **[2025-12-31]** I received my Ph.D. degree from Zhejiang University.
+- 🔥🔥 **[2025-06-13]** I just finished my algorithm internship at Ant Group. It was **exactly** a whole year.
 - 🔥🔥 **[2025-03-25]** [**Ling-Coder-Lite**](https://arxiv.org/abs/2503.17793) is released by Codefuse and Ling Team, Ant Group.
 - 🔥🔥 **[2025-03-16]** [**Awesome-Code-Benchmark**](https://github.com/tongye98/Awesome-Code-Benchmark) A thorough review of code domain benchmarks for LLM research has been released.
 
@@ -50,15 +52,15 @@ My research interests include Large Language Models (LLMs), Code Intelligence, C
 
 <!-- - [Domain-Specific Data Synthesis for LLMs through Minimal Sufficient Representation Learning]() **Tong Ye**, Hang Yu, Tengfei Ma, Xuhong Zhang, Jianguo Li, Peng Di, Jianwei Yin, Wenhai Wang, **NeurIPS 2025 under reivew**  -->
 
+- [ModiGen: A Large Language Model-Based Workflow for Multi-Task  Modelica Code Generation](https://arxiv.org/abs/2503.18460), Jiahui Xiang, **Tong Ye**, Peiyu Liu, Yinan Zhang, Wenhai Wang
+
+- [Towards Automated SOC Alert Validation: Leveraging LLMs for False Positives Identification](), Weigang Huang, Peiyu Liu, Kangjie Lu, **Tong Ye**, Lirong Fu, Wenhai Wang
+
 - [Every Sample Matters: Leveraging Mixture-of-Experts and High-Quality Data for Efficient and Accurate Code LLM](https://arxiv.org/abs/2503.17793), **Codefuse, Ling Team**: Wenting Cai, Yuchen Cao, Chaoyu Chen, Chen Chen, Siba Chen, Qing Cui, Peng Di, Junpeng Fang, Zi Gong, Ting Guo, Zhengyu He, Yang Huang, Cong Li, Jianguo Li, Zheng Li, Shijie Lian, BingChang Liu, Songshan Luo, Shuo Mao, Min Shen, Jian Wu, Jiaolong Yang, Wenjie Yang, **Tong Ye**, Hang Yu, Wei Zhang, Zhenduo Zhang, Hailin Zhao, Xunjin Zheng, Jun Zhou. **Techinical Report, Ant Group**  *<u>(Authors are listed in the alphabet order based on their last name.)</u>*
 
-- [ModiGen: A Large Language Model-Based Workflow for Multi-Task  Modelica Code Generation](https://arxiv.org/abs/2503.18460), Jiahui Xiang, **Tong Ye**, Peiyu Liu, Yinan Zhang, Wenhai Wang, **AAAI 2026 under review**
+- [LLM4EFFI: Leveraging Large Language Models to Enhance Code Efficiency and Correctness](https://arxiv.org/abs/2502.18489), **Tong Ye**, Weigang Huang, Xuhong Zhang, Tengfei Ma, Peiyu Liu, Jianwei Yin, Wenhai Wang
 
-- [Towards Automated SOC Alert Validation: Leveraging LLMs for False Positives Identification](), Weigang Huang, Peiyu Liu, Kangjie Lu, **Tong Ye**, Lirong Fu, Wenhai Wang, **AAAI 2026 under review**
-
-- [LLM4EFFI: Leveraging Large Language Models to Enhance Code Efficiency and Correctness](https://arxiv.org/abs/2502.18489), **Tong Ye**, Weigang Huang, Xuhong Zhang, Tengfei Ma, Peiyu Liu, Jianwei Yin, Wenhai Wang, **AAAI 2026 under reivew**
-
-- [A Problem-Oriented Perspective and Anchor Verification for Code Optimization](https://arxiv.org/abs/2406.11935), **Tong Ye**, Tengfei Ma, Xuhong Zhang, Hang Yu, Jianwei Yin, Wenhai Wang, **NeurIPS 2025 under reivew**
+- [A Problem-Oriented Perspective and Anchor Verification for Code Optimization](https://arxiv.org/abs/2406.11935), **Tong Ye**, Tengfei Ma, Xuhong Zhang, Hang Yu, Jianwei Yin, Wenhai Wang, **ICLR 2026**
 
 - [Uncovering LLM-Generated Code: A Zero-Shot Synthetic Code Detector via Code Rewriting](https://doi.org/10.1609/aaai.v39i1.32082), **Tong Ye**, Yangkai Du, Tengfei Ma, Lingfei Wu, Xuhong Zhang, Shouling Ji, Wenhai Wang, **AAAI 2025** **Oral**
 
@@ -75,7 +77,7 @@ My research interests include Large Language Models (LLMs), Code Intelligence, C
 
 
 # 📖 Educations
-- *2020.09 - Now*, CyberSecurity, Zhejiang University, China. 
+- *2020.09 - 2025.12*, CyberSecurity, Zhejiang University, China. 
 - *2016.09 - 2020.06*, Physics, Zhejiang University, China. 
 
 <!-- # 💬 Invited Talks
