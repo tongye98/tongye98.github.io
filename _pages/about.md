@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I graduated with a bachelor's degree in Physics from [Zhejiang University](http://www.zju.edu.cn) and earned my Ph.D. in Cybersecurity from Zhejiang University under the mentorship of [Wenhai Wang](https://person.zju.edu.cn/wangweihai) and [Xuhong Zhang](https://person.zju.edu.cn/zhangxuhong).  
+I graduated with a bachelor's degree in [Physics](https://physics.zju.edu.cn) from Zhejiang University and earned my Ph.D. in Cybersecurity from [Zhejiang University](http://www.zju.edu.cn) under the mentorship of [Wenhai Wang](https://person.zju.edu.cn/wangweihai) and [Xuhong Zhang](https://person.zju.edu.cn/zhangxuhong).  
 
 My research interests include Large Language Models (LLMs), Code Intelligence, Agentic Coding, etc.
 
@@ -51,6 +51,9 @@ My research interests include Large Language Models (LLMs), Code Intelligence, A
 </div> -->
 
 <!-- - [Domain-Specific Data Synthesis for LLMs through Minimal Sufficient Representation Learning]() **Tong Ye**, Hang Yu, Tengfei Ma, Xuhong Zhang, Jianguo Li, Peng Di, Jianwei Yin, Wenhai Wang, **NeurIPS 2025 under reivew**  -->
+- [VersiAlign: Toward Robust Version-Aware Code Generation Amidst  Rapid Library Evolution](), lufan wang, **Tong Ye**, Peiyu Liu, Wenhai Wang
+
+- [RepoAttention: Focusing on Relevant Context for  Repository-Level Code Completion](), Ruinan Zeng, Xuhong Zhang, **Tong Ye**, Peiyu Liu, Yunyun Sun, Tianyue Luo, Wenhai Wang
 
 - [ModiGen: A Large Language Model-Based Workflow for Multi-Task  Modelica Code Generation](https://arxiv.org/abs/2503.18460), Jiahui Xiang, **Tong Ye**, Peiyu Liu, Yinan Zhang, Wenhai Wang
 
@@ -70,7 +73,7 @@ My research interests include Large Language Models (LLMs), Code Intelligence, A
 
 
 # 📝 Journal Publications 
--[AutoPenGPT: Drift-Resistant Penetration Testing Driven by Search-Space Convergence and Dependency Modeling](https://jeit.ac.cn/en/article/doi/10.11999/JEIT250873)  Weigang Huang, Lirong Fu, Peiyu Liu, Linkang Du, **Tong Ye**, Yifan Xia, Wenhai Wang, **Journal of Electronics & Information Techonology 电子与信息学报, 2025**
+- [AutoPenGPT: Drift-Resistant Penetration Testing Driven by Search-Space Convergence and Dependency Modeling](https://jeit.ac.cn/en/article/doi/10.11999/JEIT250873)  Weigang Huang, Lirong Fu, Peiyu Liu, Linkang Du, **Tong Ye**, Yifan Xia, Wenhai Wang, **Journal of Electronics & Information Techonology 电子与信息学报, 2025**
 
 - [LuaTaint: A Static Analysis System for Web Configuration Interface Vulnerability of Internet of Things Device](https://ieeexplore.ieee.org/document/10742550), Jiahui Xiang, Lirong Fu, **Tong Ye**, Peiyu Liu, Huan Le, Liming Zhu, Wenhai Wang, **IEEE Internet of Things Journal, 2024**
 
