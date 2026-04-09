@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I graduated with a bachelor's degree in [Physics](https://physics.zju.edu.cn) from Zhejiang University and earned my Ph.D. in Cybersecurity from [Zhejiang University](http://www.zju.edu.cn) under the mentorship of [Wenhai Wang](https://person.zju.edu.cn/wangweihai) and [Xuhong Zhang](https://person.zju.edu.cn/zhangxuhong). I am currently serving as a LLM Algorithm Researcher at [vivo AI Research Institute](https://www.vivo.com.cn). 
+I graduated with a bachelor's degree in [Physics](https://physics.zju.edu.cn) from Zhejiang University and earned my Ph.D. in Cybersecurity from [Zhejiang University](http://www.zju.edu.cn) under the mentorship of [Wenhai Wang](https://person.zju.edu.cn/wangweihai) and [Xuhong Zhang](https://person.zju.edu.cn/zhangxuhong). I am currently serving as a LLM Algorithm Researcher at [vivo AI Lab](https://www.vivo.com.cn). 
 
 My research interests include Large Language Models (LLMs), Code Intelligence, Agentic Coding, GUI-Agent, etc.
 
