@@ -57,6 +57,8 @@ My research interests include Large Language Models (LLMs), Code Intelligence, A
 
 - [RepoAttention: Focusing on Relevant Context for  Repository-Level Code Completion](). Ruinan Zeng, Xuhong Zhang, **Tong Ye**, Peiyu Liu, Yunyun Sun, Tianyue Luo, Wenhai Wang, Mar 2026
 
+- [Domain-Specific Data Synthesis for LLMs through Minimal Sufficient Representation Learning](). **Tong Ye**, Hang Yu, Tengfei Ma, Xuhong Zhang, Jianguo Li, Peng Di, Peiyu Liu, Jianwei Yin, Wenhai Wang, KDD 2026 under review
+
 - [Selective Knowledge Distillation: Fusing LLM Semantic Strengths with DNN Efficiency for Binary Code Similarity Detection](). Shize Zhou, Peiyu Liu, Lirong Fu, **Tong Ye**, Wenhai Wang, **ACL 2026 main**
 
 - [ModiGen: A Large Language Model-Based Workflow for Multi-Task  Modelica Code Generation](https://arxiv.org/abs/2503.18460). Jiahui Xiang, **Tong Ye**, Peiyu Liu, Yinan Zhang, Wenhai Wang, Mar 2025
