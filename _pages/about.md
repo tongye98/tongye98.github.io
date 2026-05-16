@@ -29,6 +29,7 @@ My research interests include Large Language Models (LLMs), Code Intelligence, A
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 🚀 News
+- 🔥🔥 **[2026-05]** Our paper is accepted by KDD 2026.
 - 🔥🔥 **[2026-04]** One paper is accepted by ACL 2026 main conference.
 - 🔥🔥 **[2026-04]** I joined [vivo's AI Research Institute](https://hr-campus.vivo.com/custom/lanjixing) as a LLM Algorithm Researcher.
 - 🔥🔥 **[2026-01]** Our paper "[A Problem-Oriented Perspective and Anchor Verification for Code Optimization](https://arxiv.org/abs/2406.11935)" was accepted by ICLR 2026.
@@ -57,7 +58,7 @@ My research interests include Large Language Models (LLMs), Code Intelligence, A
 
 - [RepoAttention: Focusing on Relevant Context for  Repository-Level Code Completion](). Ruinan Zeng, Xuhong Zhang, **Tong Ye**, Peiyu Liu, Yunyun Sun, Tianyue Luo, Wenhai Wang, Mar 2026
 
-- [Domain-Specific Data Synthesis for LLMs through Minimal Sufficient Representation Learning](). **Tong Ye**, Hang Yu, Tengfei Ma, Xuhong Zhang, Jianguo Li, Peng Di, Peiyu Liu, Jianwei Yin, Wenhai Wang, KDD 2026 under review
+- [Domain-Specific Data Synthesis for LLMs through Minimal Sufficient Representation Learning](). **Tong Ye**, Hang Yu, Tengfei Ma, Xuhong Zhang, Jianguo Li, Peng Di, Peiyu Liu, Jianwei Yin, Wenhai Wang, **KDD 2026** 
 
 - [Selective Knowledge Distillation: Fusing LLM Semantic Strengths with DNN Efficiency for Binary Code Similarity Detection](). Shize Zhou, Peiyu Liu, Lirong Fu, **Tong Ye**, Wenhai Wang, **ACL 2026 main**
 
