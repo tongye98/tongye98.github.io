@@ -56,13 +56,11 @@ My research interests include Large Language Models (LLMs), Code Intelligence, A
 <!-- - [Domain-Specific Data Synthesis for LLMs through Minimal Sufficient Representation Learning]() **Tong Ye**, Hang Yu, Tengfei Ma, Xuhong Zhang, Jianguo Li, Peng Di, Jianwei Yin, Wenhai Wang, **NeurIPS 2025 under reivew**  -->
 - [VersiAlign: Toward Robust Version-Aware Code Generation Amidst  Rapid Library Evolution](). Lufan Wang, **Tong Ye**, Peiyu Liu, Wenhai Wang, Mar 2026
 
-- [RepoAttention: Focusing on Relevant Context for  Repository-Level Code Completion](). Ruinan Zeng, Xuhong Zhang, **Tong Ye**, Peiyu Liu, Yunyun Sun, Tianyue Luo, Wenhai Wang, Mar 2026
+- [RepoAttention: Focusing on Relevant Context for  Repository-Level Code Completion](https://openreview.net/forum?id=jNeSWhc0fa#discussion). Ruinan Zeng, Xuhong Zhang, **Tong Ye**, Peiyu Liu, Yunyun Sun, Tianyue Luo, Wenhai Wang, Mar 2026
 
-- [Domain-Specific Data Synthesis for LLMs through Minimal Sufficient Representation Learning](). **Tong Ye**, Hang Yu, Tengfei Ma, Xuhong Zhang, Jianguo Li, Peng Di, Peiyu Liu, Jianwei Yin, Wenhai Wang, **KDD 2026** 
+- [Domain-Specific Data Synthesis for LLMs through Minimal Sufficient Representation Learning](https://arxiv.org/abs/2605.30039). **Tong Ye**, Hang Yu, Tengfei Ma, Xuhong Zhang, Jianguo Li, Peng Di, Peiyu Liu, Jianwei Yin, Wenhai Wang, **KDD 2026** 
 
-- [Selective Knowledge Distillation: Fusing LLM Semantic Strengths with DNN Efficiency for Binary Code Similarity Detection](). Shize Zhou, Peiyu Liu, Lirong Fu, **Tong Ye**, Wenhai Wang, **ACL 2026 main**
-
-- [ModiGen: A Large Language Model-Based Workflow for Multi-Task  Modelica Code Generation](https://arxiv.org/abs/2503.18460). Jiahui Xiang, **Tong Ye**, Peiyu Liu, Yinan Zhang, Wenhai Wang, Mar 2025
+- [Selective Knowledge Distillation: Fusing LLM Semantic Strengths with DNN Efficiency for Binary Code Similarity Detection](). Shize Zhou, Peiyu Liu, Lirong Fu, **Tong Ye**, Wenhai Wang, **ACL 2026**
 
 - [Every Sample Matters: Leveraging Mixture-of-Experts and High-Quality Data for Efficient and Accurate Code LLM](https://arxiv.org/abs/2503.17793). **Codefuse, Ling Team**: Wenting Cai, Yuchen Cao, Chaoyu Chen, Chen Chen, Siba Chen, Qing Cui, Peng Di, Junpeng Fang, Zi Gong, Ting Guo, Zhengyu He, Yang Huang, Cong Li, Jianguo Li, Zheng Li, Shijie Lian, BingChang Liu, Songshan Luo, Shuo Mao, Min Shen, Jian Wu, Jiaolong Yang, Wenjie Yang, **Tong Ye**, Hang Yu, Wei Zhang, Zhenduo Zhang, Hailin Zhao, Xunjin Zheng, Jun Zhou. **Techinical Report, Ant Group**, Mar 2025
 <!-- *<u>(Authors are listed in the alphabet order based on their last name.)</u>* -->
@@ -71,7 +69,7 @@ My research interests include Large Language Models (LLMs), Code Intelligence, A
 
 - [A Problem-Oriented Perspective and Anchor Verification for Code Optimization](https://arxiv.org/abs/2406.11935). **Tong Ye**, Tengfei Ma, Xuhong Zhang, Hang Yu, Jianwei Yin, Wenhai Wang, **ICLR 2026**
 
-- [Uncovering LLM-Generated Code: A Zero-Shot Synthetic Code Detector via Code Rewriting](https://doi.org/10.1609/aaai.v39i1.32082). **Tong Ye**, Yangkai Du, Tengfei Ma, Lingfei Wu, Xuhong Zhang, Shouling Ji, Wenhai Wang, **AAAI 2025** **Oral**
+- [Uncovering LLM-Generated Code: A Zero-Shot Synthetic Code Detector via Code Rewriting](https://doi.org/10.1609/aaai.v39i1.32082). **Tong Ye**, Yangkai Du, Tengfei Ma, Lingfei Wu, Xuhong Zhang, Shouling Ji, Wenhai Wang, **AAAI 2025**
 
 - [Tram: A Token-level Retrieval-augmented Mechanism for Source Code Summarization](https://aclanthology.org/2024.findings-naacl.186/). **Tong Ye**, Lingfei Wu, Tengfei Ma, Xuhong Zhang, Yangkai Du, Peiyu Liu, Shouling Ji, Wenhai Wang, **NAACL 2024**
 
@@ -80,6 +78,8 @@ My research interests include Large Language Models (LLMs), Code Intelligence, A
 
 
 # 📝 Journal Publications 
+- [ModiGen: A Large Language Model-Based Workflow for Multi-Task  Modelica Code Generation](https://arxiv.org/abs/2503.18460). Jiahui Xiang, **Tong Ye**, Peiyu Liu, Yinan Zhang, Wenhai Wang, Mar 2025
+
 - [AutoPenGPT: Drift-Resistant Penetration Testing Driven by Search-Space Convergence and Dependency Modeling](https://jeit.ac.cn/en/article/doi/10.11999/JEIT250873).  Weigang Huang, Lirong Fu, Peiyu Liu, Linkang Du, **Tong Ye**, Yifan Xia, Wenhai Wang, **Journal of Electronics & Information Techonology 电子与信息学报, 2025**
 
 - [LuaTaint: A Static Analysis System for Web Configuration Interface Vulnerability of Internet of Things Device](https://ieeexplore.ieee.org/document/10742550). Jiahui Xiang, Lirong Fu, **Tong Ye**, Peiyu Liu, Huan Le, Liming Zhu, Wenhai Wang, **IEEE Internet of Things Journal, 2024**
