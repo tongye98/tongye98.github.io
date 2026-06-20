@@ -29,9 +29,10 @@ My research interests include Large Language Models (LLMs), Code Intelligence, A
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 🚀 News
+- 🔥🔥 **[2026-06]** One paper is accepted by MODELS 2026.
 - 🔥🔥 **[2026-05]** Our paper is accepted by KDD 2026.
 - 🔥🔥 **[2026-04]** One paper is accepted by ACL 2026 main conference.
-- 🔥🔥 **[2026-04]** I joined [vivo's AI Research Institute](https://hr-campus.vivo.com/custom/lanjixing) as a LLM Algorithm Researcher.
+- 🔥🔥 **[2026-04]** I joined [vivo AI Lab](https://hr-campus.vivo.com/custom/lanjixing) as a LLM Algorithm Researcher.
 - 🔥🔥 **[2026-01]** Our paper "[A Problem-Oriented Perspective and Anchor Verification for Code Optimization](https://arxiv.org/abs/2406.11935)" was accepted by ICLR 2026.
 - 🔥🔥 **[2025-12]** I received my Ph.D. degree from Zhejiang University.
 - 🔥🔥 **[2025-06]** I just finished my algorithm internship at Ant Group. It was **exactly** a whole year.
@@ -54,6 +55,9 @@ My research interests include Large Language Models (LLMs), Code Intelligence, A
 </div> -->
 
 <!-- - [Domain-Specific Data Synthesis for LLMs through Minimal Sufficient Representation Learning]() **Tong Ye**, Hang Yu, Tengfei Ma, Xuhong Zhang, Jianguo Li, Peng Di, Jianwei Yin, Wenhai Wang, **NeurIPS 2025 under reivew**  -->
+
+- [ModiGen: A Large Language Model-Based Framework for Modelica Component Generation in Multi-Domain Systems](https://arxiv.org/abs/2503.18460). Jiahui Xiang, **Tong Ye**, Peiyu Liu, Yinan Zhang, Wenhai Wang, **MODELS 2026**
+
 - [VersiAlign: Toward Robust Version-Aware Code Generation Amidst  Rapid Library Evolution](). Lufan Wang, **Tong Ye**, Peiyu Liu, Wenhai Wang, Mar 2026
 
 - [RepoAttention: Focusing on Relevant Context for  Repository-Level Code Completion](https://openreview.net/forum?id=jNeSWhc0fa#discussion). Ruinan Zeng, Xuhong Zhang, **Tong Ye**, Peiyu Liu, Yunyun Sun, Tianyue Luo, Wenhai Wang, Mar 2026
@@ -78,8 +82,6 @@ My research interests include Large Language Models (LLMs), Code Intelligence, A
 
 
 # 📝 Journal Publications 
-- [ModiGen: A Large Language Model-Based Workflow for Multi-Task  Modelica Code Generation](https://arxiv.org/abs/2503.18460). Jiahui Xiang, **Tong Ye**, Peiyu Liu, Yinan Zhang, Wenhai Wang, Mar 2025
-
 - [AutoPenGPT: Drift-Resistant Penetration Testing Driven by Search-Space Convergence and Dependency Modeling](https://jeit.ac.cn/en/article/doi/10.11999/JEIT250873).  Weigang Huang, Lirong Fu, Peiyu Liu, Linkang Du, **Tong Ye**, Yifan Xia, Wenhai Wang, **Journal of Electronics & Information Techonology 电子与信息学报, 2025**
 
 - [LuaTaint: A Static Analysis System for Web Configuration Interface Vulnerability of Internet of Things Device](https://ieeexplore.ieee.org/document/10742550). Jiahui Xiang, Lirong Fu, **Tong Ye**, Peiyu Liu, Huan Le, Liming Zhu, Wenhai Wang, **IEEE Internet of Things Journal, 2024**
