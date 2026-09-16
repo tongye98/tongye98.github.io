@@ -29,11 +29,12 @@ My research interests include Large Language Models (LLMs), Code Intelligence, A
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 🚀 News
+- 🔥🔥 **[2026-09]** [BlueLM-GUI Technical Report: A Real-Device-Centric Flywheel for Self-Improving Mobile GUI Agents](https://arxiv.org/abs/2609.12394) released.
 - 🔥🔥 **[2026-06]** One paper is accepted by MODELS 2026.
 - 🔥🔥 **[2026-05]** Our paper is accepted by KDD 2026.
 - 🔥🔥 **[2026-04]** One paper is accepted by ACL 2026 main conference.
 - 🔥🔥 **[2026-04]** I joined [vivo AI Lab](https://hr-campus.vivo.com/custom/lanjixing) as a LLM Algorithm Researcher.
-- 🔥🔥 **[2026-01]** Our paper "[A Problem-Oriented Perspective and Anchor Verification for Code Optimization](https://arxiv.org/abs/2406.11935)" was accepted by ICLR 2026.
+- 🔥🔥 **[2026-01]** Our paper [A Problem-Oriented Perspective and Anchor Verification for Code Optimization](https://arxiv.org/abs/2406.11935) was accepted by ICLR 2026.
 - 🔥🔥 **[2025-12]** I received my Ph.D. degree from Zhejiang University.
 - 🔥🔥 **[2025-06]** I just finished my algorithm internship at Ant Group. It was **exactly** a whole year.
 - 🔥🔥 **[2025-03]** [**Ling-Coder-Lite**](https://arxiv.org/abs/2503.17793) is released by Codefuse and Ling Team, Ant Group.
@@ -56,22 +57,25 @@ My research interests include Large Language Models (LLMs), Code Intelligence, A
 
 <!-- - [Domain-Specific Data Synthesis for LLMs through Minimal Sufficient Representation Learning]() **Tong Ye**, Hang Yu, Tengfei Ma, Xuhong Zhang, Jianguo Li, Peng Di, Jianwei Yin, Wenhai Wang, **NeurIPS 2025 under reivew**  -->
 
+- [BlueLM-GUI Technical Report: A Real-Device-Centric Flywheel for Self-Improving Mobile GUI Agents](https://arxiv.org/abs/2609.12394). **Tong Ye**, Kunyang Han, Guozhi Wang, Longqiang Luo, Zhifeng Ding, Yongxiang Zhang, Xiaolei Shen, Yuxuan Zhang, Zhuping Zhang, Tao Xu, Yue Pan, Yucheng Zhao, Yupei Hu, Yuanjiang Ouyang, Danfeng Shen, Runqi Lin, Hongda Cai, Zhaoxiong Wang, Mengjia Yan, Yingjie Zhong, Chen Zhou, Zeyu Zhang, Xuwen Zhu, Penggang Shi, Mingcheng Luo, Ziyang Wu, Min Jin, Mingfu Shen, Zairong Xu, Fan Zhang, Hao Wang, Liang Liu, Zhulin Xie, Lijun Yao, Xiao Liang, Liangmin Wen, Liqiang Feng, Feilong Wu, Min Hu, Min Chen, Guanjing Xiong, Xiaohu Ruan, Xiaoxin Chen. **Techinical Report, vivo AI Lab**, Sep 2026
+
+- [Domain-Specific Data Synthesis for LLMs through Minimal Sufficient Representation Learning](https://arxiv.org/abs/2605.30039). **Tong Ye**, Hang Yu, Tengfei Ma, Xuhong Zhang, Jianguo Li, Peng Di, Peiyu Liu, Jianwei Yin, Wenhai Wang, **KDD 2026** 
+
 - [ModiGen: A Large Language Model-Based Framework for Modelica Component Generation in Multi-Domain Systems](https://arxiv.org/abs/2503.18460). Jiahui Xiang, **Tong Ye**, Peiyu Liu, Yinan Zhang, Wenhai Wang, **MODELS 2026**
 
 - [VersiAlign: Toward Robust Version-Aware Code Generation Amidst  Rapid Library Evolution](). Lufan Wang, **Tong Ye**, Peiyu Liu, Wenhai Wang, Mar 2026
 
 - [RepoAttention: Focusing on Relevant Context for  Repository-Level Code Completion](https://openreview.net/forum?id=jNeSWhc0fa#discussion). Ruinan Zeng, Xuhong Zhang, **Tong Ye**, Peiyu Liu, Yunyun Sun, Tianyue Luo, Wenhai Wang, Mar 2026
 
-- [Domain-Specific Data Synthesis for LLMs through Minimal Sufficient Representation Learning](https://arxiv.org/abs/2605.30039). **Tong Ye**, Hang Yu, Tengfei Ma, Xuhong Zhang, Jianguo Li, Peng Di, Peiyu Liu, Jianwei Yin, Wenhai Wang, **KDD 2026** 
-
 - [Selective Knowledge Distillation: Fusing LLM Semantic Strengths with DNN Efficiency for Binary Code Similarity Detection](). Shize Zhou, Peiyu Liu, Lirong Fu, **Tong Ye**, Wenhai Wang, **ACL 2026**
+
+- [A Problem-Oriented Perspective and Anchor Verification for Code Optimization](https://arxiv.org/abs/2406.11935). **Tong Ye**, Tengfei Ma, Xuhong Zhang, Hang Yu, Jianwei Yin, Wenhai Wang, **ICLR 2026**
 
 - [Every Sample Matters: Leveraging Mixture-of-Experts and High-Quality Data for Efficient and Accurate Code LLM](https://arxiv.org/abs/2503.17793). **Codefuse, Ling Team**: Wenting Cai, Yuchen Cao, Chaoyu Chen, Chen Chen, Siba Chen, Qing Cui, Peng Di, Junpeng Fang, Zi Gong, Ting Guo, Zhengyu He, Yang Huang, Cong Li, Jianguo Li, Zheng Li, Shijie Lian, BingChang Liu, Songshan Luo, Shuo Mao, Min Shen, Jian Wu, Jiaolong Yang, Wenjie Yang, **Tong Ye**, Hang Yu, Wei Zhang, Zhenduo Zhang, Hailin Zhao, Xunjin Zheng, Jun Zhou. **Techinical Report, Ant Group**, Mar 2025
 <!-- *<u>(Authors are listed in the alphabet order based on their last name.)</u>* -->
 
 - [LLM4EFFI: Leveraging Large Language Models to Enhance Code Efficiency and Correctness](https://arxiv.org/abs/2502.18489). **Tong Ye**, Weigang Huang, Xuhong Zhang, Tengfei Ma, Peiyu Liu, Jianwei Yin, Wenhai Wang, Feb 2025
 
-- [A Problem-Oriented Perspective and Anchor Verification for Code Optimization](https://arxiv.org/abs/2406.11935). **Tong Ye**, Tengfei Ma, Xuhong Zhang, Hang Yu, Jianwei Yin, Wenhai Wang, **ICLR 2026**
 
 - [Uncovering LLM-Generated Code: A Zero-Shot Synthetic Code Detector via Code Rewriting](https://doi.org/10.1609/aaai.v39i1.32082). **Tong Ye**, Yangkai Du, Tengfei Ma, Lingfei Wu, Xuhong Zhang, Shouling Ji, Wenhai Wang, **AAAI 2025**
 
