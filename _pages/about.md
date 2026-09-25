@@ -63,7 +63,7 @@ My research interests include Large Language Models (LLMs), Code Intelligence, A
 
 - [ModiGen: A Large Language Model-Based Framework for Modelica Component Generation in Multi-Domain Systems](https://arxiv.org/abs/2503.18460). Jiahui Xiang, **Tong Ye**, Peiyu Liu, Yinan Zhang, Wenhai Wang, **MODELS 2026**
 
-- [VersiAlign: Toward Robust Version-Aware Code Generation Amidst  Rapid Library Evolution](). Lufan Wang, **Tong Ye**, Peiyu Liu, Wenhai Wang, Mar 2026
+<!-- - [VersiAlign: Toward Robust Version-Aware Code Generation Amidst  Rapid Library Evolution](). Lufan Wang, **Tong Ye**, Peiyu Liu, Wenhai Wang, Mar 2026 -->
 
 - [RepoAttention: Focusing on Relevant Context for  Repository-Level Code Completion](https://openreview.net/forum?id=jNeSWhc0fa#discussion). Ruinan Zeng, Xuhong Zhang, **Tong Ye**, Peiyu Liu, Yunyun Sun, Tianyue Luo, Wenhai Wang, Mar 2026
 
